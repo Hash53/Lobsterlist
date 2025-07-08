@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+    {
+            "user": "NicoyGD",
+            "link": "https://youtu.be/vQ0okOfEV6o",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
