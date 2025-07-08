@@ -5,7 +5,7 @@
     "creators": ["Hash"],
     "verifier": "NicoyGD",
     "verification": "",
-    "percentToQualify": 100,
+    "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
     ]
