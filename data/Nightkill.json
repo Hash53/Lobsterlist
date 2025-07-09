@@ -8,6 +8,12 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+     {
+            "user": "DiamondCat11",
+            "link": "https://www.youtube.com/watch?v=CBItmvNt2hk",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 
 }
